@@ -7,10 +7,8 @@ VisionAssist is a computer vision-based machine learning project designed to emp
 ## Table of Contents
 
 - [Project Files](#project-files)
-- [Mobile App Development](#mobile-app-development)
 - [Getting Started](#getting-started)
 - [Contributors](#contributors)
-- [License](#license)
 
 ## Project Files
 
