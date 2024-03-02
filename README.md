@@ -32,13 +32,4 @@ VisionAssist is a computer vision-based machine learning project designed to emp
 
 4. **Run Object Finder**: Utilize the `object_finder.py` file to locate specific objects within the camera frame.
 
-5. **Mobile App Development**: Stay tuned for updates on the mobile app development using Flutter.
-
-## Contributors
-
-- Riya Ahlawat
-- Divyanshi Joshi
-- Anoushka Gupta
-- Ritika Malik
-
 Feel free to contribute and make VisionAssist even more accessible for individuals with visual impairments!
