@@ -4,6 +4,11 @@
 
 VisionAssist is a computer vision-based machine learning project designed to empower individuals with visual impairments. The project focuses on Object Detection, Recognition, and Spatial Localization in indoor spaces, providing audio output to convey information about the surroundings.
 
+## Demo
+
+- Object Detection - Detects all the objects that comes in the frame. Gives audio output for object name, confidence, object height in pixels and distance in metres.
+- 
+
 ## Table of Contents
 
 - [Project Files](#project-files)
