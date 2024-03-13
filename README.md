@@ -7,8 +7,7 @@ VisionAssist is a computer vision-based machine learning project designed to emp
 ## Demo
 
 - **Object Detection** - Detects all the objects that comes in the frame. Gives audio output for object name, confidence, object height in pixels and distance in metres.
-- Video Demo : https://youtu.be/Pq27UnjJeaw?feature=shared
-
+- Video Demo : https://youtu.be/gsdEQlidFpE?si=pvNWJZEj7C5LR995
 
 ## Table of Contents
 
